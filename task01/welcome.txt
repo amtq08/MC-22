@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="279dp"
+        android:layout_height="86dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Welcome to the ABC Editor"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textSize="34sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="108dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="choose what you want to do!"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="241dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="129dp"
+        android:layout_height="69dp"
+        android:background="#E91E63"
+        android:backgroundTint="#D81B60"
+        android:text="Take Photo"
+        android:textColor="#FDFDFD"
+        app:strokeColor="#020000"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="129dp"
+        android:layout_height="69dp"
+        android:background="#E91E63"
+        android:backgroundTint="#D81B60"
+        android:text="Take Photo"
+        android:textColor="#FDFDFD"
+        app:strokeColor="#020000"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="129dp"
+        android:layout_height="69dp"
+        android:background="#E91E63"
+        android:backgroundTint="#D81B60"
+        android:text="Edit photo"
+        android:textColor="#FDFDFD"
+        app:strokeColor="#020000"
+        tools:layout_editor_absoluteX="230dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="129dp"
+        android:layout_height="69dp"
+        android:background="#E91E63"
+        android:backgroundTint="#D81B60"
+        android:text="Beauty effects"
+        android:textColor="#FDFDFD"
+        app:strokeColor="#020000"
+        tools:layout_editor_absoluteX="230dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="129dp"
+        android:layout_height="69dp"
+        android:background="#E91E63"
+        android:backgroundTint="#D81B60"
+        android:text="Collage"
+        android:textColor="#FDFDFD"
+        app:strokeColor="#020000"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
