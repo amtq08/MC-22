@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#90C1C6"
+    android:orientation="vertical"
+    tools:context=".examActivity">
+
+    <RelativeLayout
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:fontFamily="casual"
+            android:padding="16dp"
+            android:text="@string/score"
+            android:textColor="#000"
+            android:textSize="25sp"
+            tools:ignore="RtlHardcoded" />
+
+
+        <TextView
+            android:id="@+id/Points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:fontFamily="casual"
+            android:padding="16dp"
+            android:text="@string/_0"
+            android:textColor="#000"
+            android:textSize="25sp"
+            tools:ignore="RelativeOverlap,RtlHardcoded" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imgview"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/balll"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="casual"
+        android:padding="8dp"
+        android:text="@string/b_for_ball"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="34sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/trueButton"
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:background="#3F51B5"
+            android:fontFamily="casual"
+            android:text="@string/yes"
+            android:textColor="#fff"
+            android:textSize="34sp"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/falseButton"
+            android:layout_width="33dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:background="@color/purple_200"
+            android:fontFamily="casual"
+            android:text="@string/no"
+            android:textColor="#5E35B1"
+            android:textSize="34sp"
+            tools:ignore="ButtonStyle" />
+
+    </LinearLayout>
+
+</LinearLayout>

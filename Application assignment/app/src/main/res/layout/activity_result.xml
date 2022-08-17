@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A8F3FB"
+    tools:context=".result">
+
+    <TextView
+        android:id="@+id/grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:padding="16dp"
+        android:text="@string/congratulations"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/outof"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/grade"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="casual"
+        android:padding="16dp"
+        android:text="@string/you_scored_9_out_of_10"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/retry"
+        android:layout_width="162dp"
+        android:layout_height="97dp"
+        android:layout_below="@+id/outof"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="178dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:fontFamily="casual"
+        android:padding="8dp"
+        android:text="@string/retry_quiz"
+        android:textColor="#0D47A1"
+        android:textSize="20sp" />
+
+</RelativeLayout>
+
