@@ -1,0 +1,46 @@
+com/example/quran_app/Ayah.java
+ com.example.quran_app.Ayah
+com/example/quran_app/List_Adapter_Ayahs.java
+ com.example.quran_app.List_Adapter_Ayahs
+com/example/quran_app/Parah_Display.java
+ com.example.quran_app.Parah_Display
+com/example/quran_app/databinding/ActivityMainBinding.java
+ com.example.quran_app.databinding.ActivityMainBinding
+com/example/quran_app/QDH.java
+ com.example.quran_app.QDH
+com/example/quran_app/databinding/ActivitySurahDisplayBinding.java
+ com.example.quran_app.databinding.ActivitySurahDisplayBinding
+com/example/quran_app/SearchSurah.java
+ com.example.quran_app.SearchSurah
+ com.example.quran_app.SearchSurah$1
+com/example/quran_app/Surah_List.java
+ com.example.quran_app.Surah_List
+ com.example.quran_app.Surah_List$1
+com/example/quran_app/BuildConfig.java
+ com.example.quran_app.BuildConfig
+com/example/quran_app/databinding/ActivitySurahListBinding.java
+ com.example.quran_app.databinding.ActivitySurahListBinding
+com/example/quran_app/databinding/ActivityParahListBinding.java
+ com.example.quran_app.databinding.ActivityParahListBinding
+com/example/quran_app/Parah_List.java
+ com.example.quran_app.Parah_List
+ com.example.quran_app.Parah_List$1
+com/example/quran_app/MainActivity.java
+ com.example.quran_app.MainActivity
+ com.example.quran_app.MainActivity$1
+ com.example.quran_app.MainActivity$2
+ com.example.quran_app.MainActivity$3
+com/example/quran_app/databinding/HeaderBinding.java
+ com.example.quran_app.databinding.HeaderBinding
+com/example/quran_app/DatabaseOpenHelper.java
+ com.example.quran_app.DatabaseOpenHelper
+com/example/quran_app/databinding/ActivityParahDisplayBinding.java
+ com.example.quran_app.databinding.ActivityParahDisplayBinding
+com/example/quran_app/databinding/ActivitySearchSurahBinding.java
+ com.example.quran_app.databinding.ActivitySearchSurahBinding
+com/example/quran_app/databinding/ActivityListAdapterAyahsBinding.java
+ com.example.quran_app.databinding.ActivityListAdapterAyahsBinding
+com/example/quran_app/Surah_Display.java
+ com.example.quran_app.Surah_Display
+com/example/quran_app/DatabaseAccess.java
+ com.example.quran_app.DatabaseAccess

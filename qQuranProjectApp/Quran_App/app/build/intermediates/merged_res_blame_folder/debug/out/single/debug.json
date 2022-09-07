@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_voice.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_textsms.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\textsms.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_local_library.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_read_more.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_returrn.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_book.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_add_comment.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\add_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_local_library.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_textsms.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_surah__display.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_surah__display.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_insert_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_laptop.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_textsms.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_book.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_voice.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_book.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_returrn.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_add_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_laptop.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_parah_list.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_parah_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_voice.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_returrn.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_voice.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_read_more.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_laptop.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_local_library.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_book.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_book.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_read_more.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_returrn.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_returrn.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\returrn.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_laptop.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\laptop.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_read_more.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_add_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_textsms.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_returrn.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable_mybgrond.jpg.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\drawable\\mybgrond.jpg"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_read_more.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_textsms.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_chrome_reader.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\chrome_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_insert_comment.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\insert_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_voice.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_laptop.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_add_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_local_library.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\local_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_parah_display.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_parah_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_read_more.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\read_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_header.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_voice.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.quran_app-merged_res-41:/layout_activity_list_adapter_ayahs.xml.flat",
+        "source": "com.example.quran_app-main-43:/layout/activity_list_adapter_ayahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable_unnamed.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\drawable\\unnamed.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_textsms.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_textsms.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_laptop.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xhdpi_add_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xhdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_returrn.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_local_library.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_surah__list.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_surah__list.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_add_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_voice.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-mdpi_local_library.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-mdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_list_adapter_ayahs.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_list_adapter_ayahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_local_library.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v21_book.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v21\\book.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_book.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_read_more.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-hdpi_add_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-hdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxxhdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxxhdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-ldpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-ldpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\layout_activity_search_surah.xml.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_search_surah.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-merged_res-41:\\drawable-xxhdpi_laptop.png.flat",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-pngs-36:\\drawable-xxhdpi\\laptop.png"
+    }
+]

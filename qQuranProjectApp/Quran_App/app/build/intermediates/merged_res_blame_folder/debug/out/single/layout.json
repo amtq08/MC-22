@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_parah_display.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_parah_display.xml"
+    },
+    {
+        "merged": "com.example.quran_app-mergeDebugResources-40:/layout/activity_list_adapter_ayahs.xml",
+        "source": "com.example.quran_app-main-43:/layout/activity_list_adapter_ayahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_surah__display.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_surah__display.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_parah_list.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_parah_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_surah__list.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_surah__list.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_search_surah.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_search_surah.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\activity_list_adapter_ayahs.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\activity_list_adapter_ayahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-mergeDebugResources-40:\\layout\\header.xml",
+        "source": "C:\\Users\\khali\\.gradle\\daemon\\7.3.3\\com.example.quran_app-main-43:\\layout\\header.xml"
+    }
+]

@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.quran_app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:5:5-37:19
+12        android:allowBackup="true"
+12-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] C:\Users\khali\.gradle\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.Quran_App" >
+20-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:11:9-47
+21        <activity
+21-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:12:9-14:40
+22            android:name="com.example.quran_app.Parah_Display"
+22-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:13:13-42
+23            android:exported="false" />
+23-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:14:13-37
+24        <activity
+24-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:15:9-17:40
+25            android:name="com.example.quran_app.Parah_List"
+25-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:16:13-39
+26            android:exported="false" />
+26-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:17:13-37
+27        <activity
+27-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:18:9-20:40
+28            android:name="com.example.quran_app.SearchSurah"
+28-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:19:13-40
+29            android:exported="false" />
+29-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:20:13-37
+30        <activity
+30-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:21:9-25:66
+31            android:name="com.example.quran_app.Navigation"
+31-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:22:13-39
+32            android:exported="false"
+32-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:23:13-37
+33            android:label="@string/title_activity_navigation"
+33-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:24:13-62
+34            android:theme="@style/Theme.Quran_App.NoActionBar" />
+34-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:25:13-63
+35        <activity android:name="com.example.quran_app.Surah_Display" />
+35-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:26:9-51
+35-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:26:19-48
+36        <activity android:name="com.example.quran_app.Surah_List" />
+36-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:27:9-48
+36-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:27:19-45
+37        <activity
+37-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:28:9-36:20
+38            android:name="com.example.quran_app.MainActivity"
+38-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:29:13-41
+39            android:exported="true" >
+39-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:30:13-36
+40            <intent-filter>
+40-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:31:13-35:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:32:17-69
+41-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:32:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:34:17-77
+43-->C:\Users\khali\Downloads\Quran_App\Quran_App\app\src\main\AndroidManifest.xml:34:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+49            android:authorities="com.example.quran_app.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\khali\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\khali\.gradle\caches\transforms-3\60d66295239e7383db0bc717e0e4f288\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\khali\.gradle\caches\transforms-3\60d66295239e7383db0bc717e0e4f288\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\khali\.gradle\caches\transforms-3\60d66295239e7383db0bc717e0e4f288\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+57        </provider>
+58
+59        <uses-library
+59-->[androidx.window:window:1.0.0] C:\Users\khali\.gradle\caches\transforms-3\29a4a2635fe3ae7324fd4158242cc016\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+60            android:name="androidx.window.extensions"
+60-->[androidx.window:window:1.0.0] C:\Users\khali\.gradle\caches\transforms-3\29a4a2635fe3ae7324fd4158242cc016\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+61            android:required="false" />
+61-->[androidx.window:window:1.0.0] C:\Users\khali\.gradle\caches\transforms-3\29a4a2635fe3ae7324fd4158242cc016\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+62        <uses-library
+62-->[androidx.window:window:1.0.0] C:\Users\khali\.gradle\caches\transforms-3\29a4a2635fe3ae7324fd4158242cc016\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+63            android:name="androidx.window.sidecar"
+63-->[androidx.window:window:1.0.0] C:\Users\khali\.gradle\caches\transforms-3\29a4a2635fe3ae7324fd4158242cc016\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+64            android:required="false" />
+64-->[androidx.window:window:1.0.0] C:\Users\khali\.gradle\caches\transforms-3\29a4a2635fe3ae7324fd4158242cc016\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+65    </application>
+66
+67</manifest>
