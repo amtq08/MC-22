@@ -1,0 +1,64 @@
+/* Set up some basic styles for the page */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Style the main content area */
+.site-layout-content {
+  background-color: #8a93ec;
+  padding: 24px;
+  min-height: 280px;
+}
+
+/* Style the header area */
+.ant-layout-header {
+  background-color: #001529;
+}
+
+/* Style the logo */
+.logo {
+  float: left;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 64px;
+  margin-left: 24px;
+}
+
+/* Style the menu */
+.ant-menu {
+  line-height: 64px;
+  float: left;
+}
+
+/* Style the menu items */
+.ant-menu-item, .ant-menu-submenu-title {
+  font-size: 16px;
+}
+
+/* Style the menu item links */
+.ant-menu-item > a, .ant-menu-submenu-title > a {
+  color: #79ecc7;
+}
+
+/* Style the active menu item */
+.ant-menu-item-selected, .ant-menu-submenu-selected {
+  background-color: #d688ce;
+}
+
+/* Style the breadcrumb */
+.ant-breadcrumb {
+  margin: 16px 0;
+}
+
+/* Style the footer */
+.ant-layout-footer {
+  background-color: #001529;
+  color: #040000;
+  text-align: center;
+  padding: 12px;
+}
